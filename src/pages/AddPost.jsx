@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
-import PostForm from "../components/PostForm";
+import PostForm from "../components/post-form/PostForm";
+
 
 function AddPost() {
   return (
